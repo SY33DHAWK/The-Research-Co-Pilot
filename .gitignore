@@ -1,0 +1,11 @@
+# Secrets (NEVER upload this!)
+.env
+
+# Local data and database
+papers/
+chroma_db/
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
